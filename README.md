@@ -11,8 +11,6 @@ Deelnemers aan de opleiding internal auditing die aan de Antwerp Management Scho
 
 Deze Github wiki zal alle informatie bevatten met betrekking tot de masterclass, zoals:
 
-* Opleidingsagenda
-* Inhoud per module
 * Inhoud per lesonderdeel
 * Opdrachten, zowel voorbereiding als opvolging
-* Informatie met betrekking tot het eindwerk
+* Informatie met betrekking tot het referaat
